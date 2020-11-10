@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="Images">
+    <file>floppy-disk.png</file>
+    <file>folder (1).png</file>
+    <file>save.png</file>
+    <file>eraser.png</file>
+  </qresource>
+</RCC>
